@@ -26,4 +26,4 @@ Primero se agregan los cambios al staging con git add y después se crea el comm
 
 git fetch descarga los cambios del repositorio remoto pero no modifica directamente la rama de trabajo.
 
-git pull descarga los cambios y además intenta integrarlos en la rama actual.
+git pull descarga los cambios y además intenta integrarlos en la rama actual..
